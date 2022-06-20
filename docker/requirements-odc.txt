@@ -19,6 +19,7 @@ odc-io
 odc-stac
 odc-stats[ows]
 odc-ui
+odc-geo
 
 hdstats==0.1.8.post1
 datacube-stats==1.0.2
